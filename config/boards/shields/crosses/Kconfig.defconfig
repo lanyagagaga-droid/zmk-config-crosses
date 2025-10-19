@@ -1,4 +1,4 @@
-if SHIELD_CROSSES_RIGHT
+if SHIELD_CROSSES_LEFT
 
 config ZMK_KEYBOARD_NAME
 	default "Crosses"
